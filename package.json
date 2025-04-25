@@ -4,6 +4,6 @@
   "private": true,
   "dependencies": {
     "angular": "1.6.9",
-    "@uirouter/angularjs": "1.0.15"
+    "@uirouter/angularjs": "1.1.1"
   }
 }
